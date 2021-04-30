@@ -1,0 +1,21 @@
+{
+    "users" : [
+        {
+            "name" : "afista",
+            "age" : 23,
+            "job" : "mentor coding",
+            "social" : {
+                "instagram" : "instagram.com",
+                "whatsapp" : 62813123212123
+            }
+        }, {
+            "name" : "eddy",
+            "age" : 28,
+            "job" : "mentor coding",
+            "social" : {
+                "instagram" : "instagram.com",
+                "whatsapp" : 62813123212123
+            }
+        }
+    ]
+}
